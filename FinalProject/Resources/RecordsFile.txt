@@ -1,0 +1,11 @@
+﻿Normal
+Easy: --:--
+Medium: --:--
+Hard: --:--
+Expert: --:--
+
+Timed
+Easy: --:--
+Medium: --:--
+Hard: --:--
+Expert: --:--
